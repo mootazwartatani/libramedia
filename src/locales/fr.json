@@ -1,0 +1,61 @@
+{
+    "welcome": "Bienvenue sur LibraMédia",
+    "explore_categories": "Explorer nos catégories",
+    "why_choose": "Pourquoi choisir LibraMédia ?",
+    "for_passionate": "Un espace pour passionnés",
+    "secure_transactions": "Transactions sécurisées",
+    "diverse_products": "Diversité des produits",
+    "cta_join_us": "Rejoignez notre communauté",
+    "cta_message": "Que vous soyez collectionneur ou simple curieux, LibraMédia vous invite à explorer un monde où chaque objet a une histoire à raconter.",
+    "create_account": "Créer un compte maintenant",
+    
+        "categories_title_all": "Découvrez nos meilleures collections",
+        "categories_title_specific": "Nos {{category}}",
+        "categories_description_all": "Découvrez notre large gamme de produits, y compris des livres rares, des vinyles d'exception et des accessoires uniques.",
+        "categories_description_specific": "Explorez notre collection de {{category}}, soigneusement sélectionnée pour répondre à toutes vos attentes.",
+        "category_all": "Tous",
+        "category_books": "Livres",
+        "category_vinyls": "Vinyles",
+        "category_accessories": "Accessoires",
+        "loading_products": "Chargement des produits...",
+        "no_products": "Aucun produit trouvé dans cette catégorie.",
+        "add_to_cart": "Ajouter au panier",
+        "already_added": "Déjà ajouté",
+        "login_to_add": "Connectez-vous pour ajouter",
+        
+            "footer_about_title": "À propos",
+            "footer_about_description": "LibraMédia est votre marketplace idéale pour découvrir des livres, vinyles et accessoires uniques. Nous mettons en avant la culture et la qualité au cœur de nos produits.",
+            "footer_useful_links": "Liens utiles",
+            "footer_contact_us": "Contactez-nous",
+            "footer_about_us": "À propos",
+            "footer_categories": "Catégories",
+            "footer_sign_in": "Se connecter",
+            "footer_follow_us": "Suivez-nous",
+            "footer_contact_email_title": "Contactez-nous par email",
+            "footer_copyright": "© 2024 LibraMédia. Tous droits réservés.",
+            
+                "categories": "Catégories",
+                "contact": "Contact",
+                "about": "À Propos",
+                "cart": "Panier",
+                "cart_empty": "Votre panier est vide",
+                "cart_total": "Total : {{total}} DT",
+                "search_placeholder": "Rechercher un produit",
+                "profile": "Profil",
+                
+                    "about_us": {
+                      "title": "Bienvenue sur LibraMédia!",
+                      "intro": "Chez LibraMédia, nous avons une passion commune : offrir un espace unique où les amateurs de culture peuvent découvrir, vendre et acheter des trésors précieux sous forme de livres, vinyles et CD. Que vous soyez à la recherche d'une œuvre rare, d'un classique intemporel ou d'une nouveauté, notre marketplace est faite pour vous.",
+                      "mission_title": "Notre Mission",
+                      "mission_text": "Notre mission est de connecter les passionnés de lecture et de musique, tout en donnant une nouvelle vie à des objets culturels. Nous croyons que chaque livre, chaque vinyle et chaque CD raconte une histoire, et qu’ils méritent d’être partagés, aimés et transmis à de nouveaux passionnés.",
+                      "offer_title": "Ce Que Nous Offrons",
+                      "offer_items": {
+                        "sell_buy_space": "Un Espace de Vente et d'Achat : Que vous souhaitiez vendre une collection ou trouver un élément précis, notre plateforme simplifie chaque étape.",
+                        "community": "Une Communauté de Passionnés : Rejoignez une communauté dynamique d’amateurs de culture qui partagent vos centres d'intérêts.",
+                        "diverse_categories": "Des Catégories Diversifiées : Livres, vinyles, et CD, avec une attention particulière aux produits rares et de qualité."
+                      },
+                      "join_us_title": "Rejoignez-Nous !",
+                      "join_us_text": "Que vous soyez un collectionneur aguerri, un mélomane ou un lecteur assidu, LibraMédia est votre destination pour trouver, vendre et partager ce que vous aimez. Ensemble, faisons vivre la culture et créons une marketplace où chaque objet a une histoire à raconter.",
+                      "thank_you": "Merci de faire partie de notre aventure et bienvenue dans la communauté LibraMédia !"
+                    }
+                  }
